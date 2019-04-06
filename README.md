@@ -97,3 +97,4 @@ class notepad
 		obj.func();
 	}
 }
+
